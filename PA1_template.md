@@ -1,20 +1,10 @@
 
-```
-## Warning: package 'knitr' was built under R version 3.3.3
-```
 
 #Activity Monitoring Analysis  
 
 ```r
 library(ggplot2)
 library(dplyr)
-```
-
-```
-## Warning: package 'dplyr' was built under R version 3.3.3
-```
-
-```r
 library(lattice)
 ```
 

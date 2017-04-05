@@ -3,13 +3,13 @@ output:
   html_document: 
     keep_md: yes
 ---
-```{r setoptions, echo=FALSE,message = FALSE}
+```{r setoptions, echo=FALSE,message = FALSE,warning=FALSE}
 library(knitr)
 opts_chunk$set(echo = TRUE,reindent.spaces = 2)
 ```  
 
 #Activity Monitoring Analysis  
-```{r library,message = FALSE}
+```{r library,message = FALSE, warning=FALSE}
 library(ggplot2)
 library(dplyr)
 library(lattice)
