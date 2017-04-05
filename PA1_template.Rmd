@@ -1,7 +1,7 @@
 ---
 output: 
-  html_document: 
-    keep_md: yes
+  github_document:
+    html_preview: false 
 ---
 ```{r setoption, echo=FALSE,message = FALSE,warning=FALSE}
 library(knitr)
