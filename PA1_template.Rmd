@@ -1,7 +1,6 @@
 ---
 output: 
-  github_document:
-    html_preview: false 
+  github_document
 ---
 ```{r setoption, echo=FALSE,message = FALSE,warning=FALSE}
 library(knitr)
