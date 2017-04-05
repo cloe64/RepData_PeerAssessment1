@@ -1,4 +1,4 @@
-setwd("//pmc-pia-fs01/FS-FS01-C0390-users/WChe/MyDocs/Selfstudy/Machinelearing/Reproduce")
+
 ############Q1.Reading Data############
 data<-read.csv("activity.csv")
 str(data)
